@@ -1,7 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package net.windwarrior.bukkit.tweakstats;
 
 import java.util.Date;

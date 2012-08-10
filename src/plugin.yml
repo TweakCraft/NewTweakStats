@@ -2,4 +2,10 @@ name: TweakStats
 version: 0.1.0
 description: Logs deaths of players into databases
 main: net.windwarrior.bukkit.tweakstats.TweakStats
+depends: [TweakcraftUtils]
 database: true
+
+commands:
+    onlinetime:
+        description: Gives time online for a specified player.
+        usage: /<command> [player]
